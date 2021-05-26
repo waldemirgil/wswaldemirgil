@@ -1,0 +1,55 @@
+package decisao;
+
+import javax.swing.JOptionPane;
+
+public class DecisaoSimplesDesafio {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Capture o nome de uma pessoa e a idade.
+		 * De acordo com as leis eleitorais apresente uma das mensagens abaixo:
+		 * - "Seu voto é obrigatório."
+		 * - "Seu voto é facultativo."
+		 * - "Você não pode votar."
+		 */
+		
+		//String produto = JOptionPane.showInputDialog("Produto");
+		//int quantidade = Integer.parseInt(JOptionPane.showInputDialog("Quantidade"));
+		//float valor = Float.parseFloat(JOptionPane.showInputDialog("Valor unitário"));
+		//float total = valor*quantidade;
+		//double aliquota = Double.parseDouble(JOptionPane.showInputDialog("Imposto"));
+		//double imposto = total * aliquota;
+		
+		String nome = JOptionPane.showInputDialog("Nome: ").toUpperCase();
+		float idade = Float.parseFloat(JOptionPane.showInputDialog("Idade: "));
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

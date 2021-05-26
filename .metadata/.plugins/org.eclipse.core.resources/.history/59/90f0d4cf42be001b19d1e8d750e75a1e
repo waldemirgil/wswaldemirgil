@@ -1,0 +1,64 @@
+package repeticao;
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 *  Exercício 1
+		 *  Peça para o usuário digitar o valor que ele deseja visualizar.
+		 *  Monte o laço para que apresente o resultado da tabuada, da seguinte forma:
+		 *  
+		 *   número x 0 = resultado
+		 *   número x 1 = resultado
+		 *   (...) x 100 = resultado
+		 *   
+		 *   Exercício 2
+		 *   Solicite o nome do cliente e email, pergunte a ele se deseja acicionar
+		 *   itens para sua compra, e enquanto ele responder que sim, peça:
+		 *   nome do produto, valor e qtde. 
+		 *   Exiba para cada produto o total de cada um.
+		 *   Quando terminar de adicionar produtos exiba no final o total da conta.
+		 *   
+		 *   Exercício 3
+		 *   
+		 */
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

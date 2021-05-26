@@ -1,0 +1,49 @@
+package variaveis;
+
+public class TiposDados {
+   // main() é o start point de uma aplicação Java
+   // é a chave de ignição do carro
+	public static void main(String[] args) {
+		
+		// Sintaxe: <Tipo de dado> <nome da variável> = <dado>;
+		/*
+		 * Alfanumérico: é um texto, parte de um texto ou um número que não será utilizado em
+		 * operações matemáticas.
+		 * 
+		 * 
+		 * Numérico: representa um dado que pode ser utilizado em expressões matemáticas.
+		 * CEP => 00010-009 => 1
+		 * 
+		 */
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	// em uma classe encontramos métodos e atributos
+	// nossa classe é pública
+}

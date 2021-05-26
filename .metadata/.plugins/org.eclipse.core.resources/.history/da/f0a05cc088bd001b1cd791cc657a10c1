@@ -1,0 +1,50 @@
+package decisao;
+
+import javax.swing.JOptionPane;
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Exercício 1:
+		 * Solicite dois valores e um operador matemático
+		 * (+, -, / ou *)
+		 * Dependendo do operador que foi digitado realize o cálculo e exiba o resultado
+		 * Dica: Se utilizar String a comparação de String deve ser:
+		 * if (variável.equals(valorasercomparado")){
+		 */
+		
+		//String pesodesejado = JOptionPane.showInputDialog("Peso Desejado: ").toUpperCase();
+		short pesodesejado = Short.parseShort(JOptionPane.showInputDialog("Peso Desejado: "));
+		short pesoinicial = Short.parseShort(JOptionPane.showInputDialog("Peso Inicial: "));
+		short pesofinal = Short.parseShort(JOptionPane.showInputDialog("Peso Final: "));
+		
+		if(pesofinal<pesodesejado) {
+			System.out.println("Parabéns, você atingiu o peso desejado!");
+		}
+			
+		if (pesofinal>pesodesejado) {
+			System.out.println("Você ainda não atingiu o peso desejado!");
+		}
+		
+		System.out.println("Diferença de peso: " + (pesofinal-pesoinicial));
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

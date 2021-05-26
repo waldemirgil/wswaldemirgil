@@ -1,0 +1,34 @@
+package decisao;
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Exercício 1:
+		 * Solicite dois valores e um operador matemático
+		 * (+, -, / ou *)
+		 * Dependendo do operador que foi digitado realize o cálculo e exiba o resultado
+		 * Dica: Se utilizar String a comparação de String deve ser:
+		 * if (variável.equals(valorasercomparado")){
+		 * 
+		 * Exercício2
+		 * Considere receber a quantidade de diárias de um hotel e o valor da diária. Sobre a diária 
+		 * haverá uma taxa que depende da quantidade de diárias.
+		 * Se a quantidade de diárias for maior que 10 a taxa será de 5%
+		 * Se a quantidade de diárias estiver entre 5 e 10 a taxa será de 8%
+		 * Se a quantidade de diárias for menor que 5 a taxa será de 10%
+		 * Exiba o valor final
+		 * 
+		 * Exercício 3
+		 * Receba o valor do salário bruto, o nome de um colaborador e a quantidade de faltas
+		 * Se não houver faltas, o salário buto receberá um aumento de 2%
+		 * Calcule o valor do INSS sobre o salário bruto
+		 * Exiba no final o salário bruto, e o salário líquido (retirando o INSS e 8% do FGTS
+		 * 
+		 * Exercício 4
+		 * Receba três números inteiros e coloque-os em ordem numérica
+		 * crescente. Garanta que os três números sejam diferentes.
+		 */
+	}
+}

@@ -1,0 +1,50 @@
+package repeticao;
+
+public class DesafioWhile {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Capturem separadamente: dia, mês e ano
+		 * 
+		 * Para o dia somente será aceito a quantidade de dias de acordo com o mês
+		 * (considere fevereiro somente com 29 dias)
+		 * 
+		 * Para o mês aceite somente valores entre 1 e 12
+		 * 
+		 * Para o ano aceite somente valores entre 2002 e 1920
+		 * 
+		 */
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

@@ -1,0 +1,40 @@
+package variaveis;
+
+public class TiposDados {
+   // main() é o start point de uma aplicação Java
+   // é a chave de ignição do carro
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	// em uma classe encontramos métodos e atributos
+	// nossa classe é pública
+}

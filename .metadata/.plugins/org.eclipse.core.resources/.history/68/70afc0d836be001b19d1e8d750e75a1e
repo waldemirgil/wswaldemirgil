@@ -1,0 +1,54 @@
+package repeticao;
+
+import javax.swing.JOptionPane;
+
+public class DesafioDo {
+
+	public static void main(String[] args) {
+		
+		
+		
+		/*
+		 * Missao 1
+		 * O jogador um digita um numero inteiro.
+		 * A partir dai o jogador dois deve adivinhar o numero.
+		 * Somente quando ele acertar devera aparecer a mensagem
+		 * "Parabéns, voce acertou".
+		 * 
+		 * Missao 2
+		 * Acrescente dicas para o jogador2, infomrando se o numero que ele 
+		 * tem que adivinhar é maior ou menor que o número que ele esta digitando.
+		 * 
+		 * Missao3
+		 * Acrescente um contador de tentativas, que sera exibido quando
+		 * o jogador2 acertar, a mensagem deverá ser:
+		 * "Parabéns, você acertou com X tentativa(s)".
+		 * Dica: terão que criar uma variável para contar.
+		 * 
+		 * !=  => não é igual.
+		 */
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

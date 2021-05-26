@@ -1,0 +1,17 @@
+package decisao;
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Exercício 1:
+		 * Solicite dois valores e um operador matemático
+		 * (+, -, / ou *)
+		 * Dependendo do operador que foi digitado realize o cálculo e exiba o resultado
+		 * Dica: Se utilizar String a comparação de String deve ser:
+		 * if (variável.equals(valorasercomparado")){
+		 */
+		
+	}
+}

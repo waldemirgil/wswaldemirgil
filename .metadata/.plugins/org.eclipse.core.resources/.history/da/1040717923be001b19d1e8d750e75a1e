@@ -1,0 +1,58 @@
+package repeticao;
+
+import javax.swing.JOptionPane;
+
+public class DesafioWhile {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Capturem separadamente: dia, mês e ano
+		 * 
+		 * Para o dia somente será aceito a quantidade de dias de acordo com o mês
+		 * (considere fevereiro somente com 29 dias)
+		 * 
+		 * Para o mês aceite somente valores entre 1 e 12
+		 * 
+		 * Para o ano aceite somente valores entre 2003 e 1920
+		 * 
+		 * -- começar pelo ano, depois mês e depois dia
+		 */
+		
+		int ano = Integer.parseInt(JOptionPane.showInputDialog("Digite o ano"));
+	
+		//while (ano<1919 || ano<2004) {
+		//	ano = JOptionPane.showInputDialog("Digite um ano válido");	
+		}
+		System.out.println("Ano válido: " + ano);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
